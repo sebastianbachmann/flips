@@ -2,7 +2,7 @@ import Config
 
 # Configure your database
 config :flips, Flips.Repo,
-  username: "postgres",
+  username: "sjm",
   password: "postgres",
   hostname: "localhost",
   database: "flips_dev",
