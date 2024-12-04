@@ -1,5 +1,13 @@
 # Flips
 
+[![wakatime](https://wakatime.com/badge/user/fedcf5a0-cf6f-4eb1-97ea-c54c5f44c2ad/project/e9a85869-cdc3-49e7-a218-04fe0e03669c.svg)](https://wakatime.com/badge/user/fedcf5a0-cf6f-4eb1-97ea-c54c5f44c2ad/project/e9a85869-cdc3-49e7-a218-04fe0e03669c)
+
+## What is this about?
+
+---
+
+## Start your Phoenix server
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
