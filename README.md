@@ -4,7 +4,6 @@
 
 ## What is this about?
 
----
 
 ## Start your Phoenix server
 
