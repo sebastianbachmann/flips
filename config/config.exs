@@ -39,7 +39,8 @@ config :spark,
 
 config :flips,
   ecto_repos: [Flips.Repo],
-  generators: [timestamp_type: :utc_datetime]
+  generators: [timestamp_type: :utc_datetime],
+  ash_domains: [Flips.Children]
 
 # Configures the endpoint
 config :flips, FlipsWeb.Endpoint,
