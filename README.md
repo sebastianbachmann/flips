@@ -4,7 +4,20 @@
 
 ## What is this about?
 
+## Actions
 
+### Children
+
+Just fire up `iex -S mix` and run the following commands
+
+#### create
+`
+Ash.create!(Flips.Children.Children, %{
+first_name: "Flips",
+last_name: "Doe",
+dob: ~D[2023-01-01]
+})
+`
 ## Start your Phoenix server
 
 To start your Phoenix server:
