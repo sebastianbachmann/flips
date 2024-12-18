@@ -35,8 +35,8 @@ defmodule Flips.MixProject do
     [
       {:ash_phoenix, "~> 2.0"},
       {:ash_postgres, "~> 2.0"},
-      {:ash, "~> 3.0"},
-      {:igniter, "~> 0.4"},
+      {:ash, "~> 3.4"},
+      {:igniter, "~> 0.4.8"},
       {:phoenix, "~> 1.7.14"},
       {:phoenix_ecto, "~> 4.5"},
       {:ecto_sql, "~> 3.10"},
